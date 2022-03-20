@@ -1,6 +1,11 @@
 body {
     margin: 0;
     background-color: rgb(208, 255, 239);
+    text-align: center;
+}
+
+#title {
+    margin-bottom: -75px;
 }
 
 .main-game {
